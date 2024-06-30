@@ -22,5 +22,7 @@ The folder contains three files:
 
 To run the program, download the three files in their folder. Right click on the HTML file and select "Open with Google Chrome" (or another browser of your choice). The periodic table will be displayed.
 
+![image](https://github.com/EnriketaShehi/codingTasks/assets/165399841/da5ed186-d02f-4db7-accd-308284a617e9)
+
 
 
