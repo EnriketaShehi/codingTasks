@@ -69,6 +69,9 @@ The About Page
 ![image](https://github.com/EnriketaShehi/codingTasks/assets/165399841/b6e38336-e174-456a-8d15-dcdadcd57195)
 
 
+Credits:
+
+The three programs in this repository were written by Enriketa Shehi, based upon program specifications provided by Hyperion Dev.
 
 
 
