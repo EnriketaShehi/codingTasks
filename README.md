@@ -55,12 +55,17 @@ In particular, you will need to install the "node_modules" which is a folder con
 Once you have installed React, you can download the "Company Website" folder, add the "node_modules" folder to the "Company Website" folder, and then navigate to the "Company Website" folder in the command line. Type "npm start" in the command line to run the program. The screenshots below show the three webpages displayed by the program.
 
 The Home Page
+
 ![image](https://github.com/EnriketaShehi/codingTasks/assets/165399841/d18fc0d3-fc66-4a5a-83c6-2a1abf617cfb)
 
+
 The Products Page
+
 ![image](https://github.com/EnriketaShehi/codingTasks/assets/165399841/96d79773-3071-45f4-9ca9-32c167984fe3)
 
+
 The About Page
+
 ![image](https://github.com/EnriketaShehi/codingTasks/assets/165399841/b6e38336-e174-456a-8d15-dcdadcd57195)
 
 
